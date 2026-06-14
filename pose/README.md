@@ -7,4 +7,7 @@
 ## Purpose
 - Archival of POSE Phase 1 materials (proposal, engineering tasks performed during project, experiment summaries, use case studies, code snippets).
 
+## Tasks
+- Link to [task inventory](engineering-tasks.md)
+
 Last updated: 2026-06-14
