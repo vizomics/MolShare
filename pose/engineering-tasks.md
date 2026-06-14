@@ -1,11 +1,11 @@
 # POSE Phase 1 Engineering Task Inventory
 
 ## Goals
-• Develop an in-depth understanding of iCn3D, assess its current scalability as a community driven OS framework for Molecular Visualization and Analysis, from the perspective of external contributors (with professional-level coding skills)
-• Establish an independent engineering testbed to investigate, isolate and enhance iCn3D components; the immersive IR2 platform from Inside Reality was chosen because of the similarity of its architectural foundation (Three.js), as well as its capability to test advanced VR capabilities for education and collaboration via group immersion and advanced navigation, which was available out of the box (IR2 was made available free of charge for this project)
-• Present results at ISMB/ECCB 2025 in Liverpool to collect feedback from research community
-• Use insights gained through iCn3D POSE 1 engineering tasks to propose way forward for POSE 2 grant proposal to establish a rapidly growing community around iCn3D based on a fork of the latest iCn3D implementation, using advanced rendering components of the Mol* framework
-• Experiment with concepts for fusing both frameworks, iCn3D and Mol*, identify architectural challenges and assess feasibility of such an integration
+- Develop an in-depth understanding of iCn3D, assess its current scalability as a community driven OS framework for Molecular Visualization and Analysis, from the perspective of external contributors (with professional-level coding skills)
+- Establish an independent engineering testbed to investigate, isolate and enhance iCn3D components; the immersive IR2 platform from Inside Reality was chosen because of the similarity of its architectural foundation (Three.js), as well as its capability to test advanced VR capabilities for education and collaboration via group immersion and advanced navigation, which was available out of the box (IR2 was made available free of charge for this project)
+- Present results at ISMB/ECCB 2025 in Liverpool to collect feedback from research community
+- Use insights gained through iCn3D POSE 1 engineering tasks to propose way forward for POSE 2 grant proposal to establish a rapidly growing community around iCn3D based on a fork of the latest iCn3D implementation, using advanced rendering components of the Mol* framework
+- Experiment with concepts for fusing both frameworks, iCn3D and Mol*, identify architectural challenges and assess feasibility of such an integration
 
 ## Task Inventory
 
