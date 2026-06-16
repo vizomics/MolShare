@@ -1,8 +1,7 @@
 # POSE Phase I Documentation
 
-![VIZomics immersive collaboration room demonstrating group immersive iCn3D visualization at ISMB/ECCB 2025](images/vizomics_group_immersion_1.jpg)
-
-![Inside the iCn3D immersive setup at the VIZomics immersive room at ISMB/ECCB 2025](images/vizomics_group_immersion_2.jpg)
+<img src="images/vizomics_group_immersion_1.jpg" width="500" alt="VIZomics immersive collaboration room demonstrating group immersive iCn3D visualization at ISMB/ECCB 2025">
+<img src="images/vizomics_group_immersion_2.jpg" width="500" alt="Inside the iCn3D immersive setup at the VIZomics immersive room at ISMB/ECCB 2025">
 
 ## Project  
 - POSE: Phase I: Pathway to iCn3D-based Open-Source Ecosystem for Collaborative Research and Education in Mechanistic Biology  
